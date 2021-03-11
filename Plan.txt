@@ -1,0 +1,7 @@
+pdf docs excel - создание файлов/шаблонов	+
+openfiledialog	+
+savefiledialog	+
+printdialog 
+folderdialog 
+colordialog 
+image to byte	+

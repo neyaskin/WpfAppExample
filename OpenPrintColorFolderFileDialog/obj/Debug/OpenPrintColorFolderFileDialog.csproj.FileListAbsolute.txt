@@ -1,0 +1,16 @@
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\bin\Debug\OpenPrintColorFolderFileDialog.exe.config
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\bin\Debug\OpenPrintColorFolderFileDialog.exe
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\bin\Debug\OpenPrintColorFolderFileDialog.pdb
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog.csprojAssemblyReference.cache
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\MainWindow.g.cs
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\App.g.cs
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog_MarkupCompile.cache
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog_MarkupCompile.lref
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\App.baml
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\MainWindow.baml
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog.g.resources
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog.Properties.Resources.resources
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog.csproj.GenerateResource.cache
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog.csproj.CoreCompileInputs.cache
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog.exe
+Z:\WpfAppPractice\OpenPrintColorFolderFileDialog\obj\Debug\OpenPrintColorFolderFileDialog.pdb

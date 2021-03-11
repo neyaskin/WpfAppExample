@@ -1,0 +1,17 @@
+Z:\WpfAppPractice\CreatePdfDocXlsx\bin\Debug\CreatePdfDocXlsx.exe.config
+Z:\WpfAppPractice\CreatePdfDocXlsx\bin\Debug\CreatePdfDocXlsx.exe
+Z:\WpfAppPractice\CreatePdfDocXlsx\bin\Debug\CreatePdfDocXlsx.pdb
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx.csprojAssemblyReference.cache
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx.csproj.ResolveComReference.cache
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\MainWindow.g.cs
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\App.g.cs
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx_MarkupCompile.cache
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx_MarkupCompile.lref
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\App.baml
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\MainWindow.baml
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx.g.resources
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx.Properties.Resources.resources
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx.csproj.GenerateResource.cache
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx.csproj.CoreCompileInputs.cache
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx.exe
+Z:\WpfAppPractice\CreatePdfDocXlsx\obj\Debug\CreatePdfDocXlsx.pdb

@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfAppPractice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppPractice"
+        mc:Ignorable="d"
+        Title="Image to bytes" Height="570" Width="400"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Image Name="userImage"
+                   Width="200" 
+                   Height="200"
+                   Margin="0 20 0 20"/>
+            <Button Name="imageToBytesBtn"
+                    Click="ImageToBytesBtn_Click"
+                    Content="Get bytes"
+                    Width="200"
+                    Height="30" 
+                    Margin="0 0 0 20"/>
+            <TextBlock Name="userImageBytes"
+                       Margin="0 0 0 20"/>
+            <Image Name="userImageFromBytes"
+                   Height="200"
+                   Width="200"/>
+        </StackPanel>
+    </Grid>
+</Window>

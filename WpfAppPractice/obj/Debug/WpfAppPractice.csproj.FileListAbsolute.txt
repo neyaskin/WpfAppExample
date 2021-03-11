@@ -1,0 +1,15 @@
+Z:\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.exe.config
+Z:\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.exe
+Z:\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.pdb
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csprojAssemblyReference.cache
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\MainWindow.g.cs
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\App.g.cs
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice_MarkupCompile.cache
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice_MarkupCompile.lref
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\MainWindow.baml
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.g.resources
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.Properties.Resources.resources
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.GenerateResource.cache
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.CoreCompileInputs.cache
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.exe
+Z:\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.pdb
